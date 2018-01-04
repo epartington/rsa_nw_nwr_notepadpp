@@ -1,2 +1,2 @@
-# nw_notepad-_nwr
+# NetWitness Notepad++ Syntax highlighting
 NetWitness Apprule synta highlighting for nwr format files
